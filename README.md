@@ -1,2 +1,5 @@
-# postman-library-API-v2
-This Postman collection provides a set of API endpoints for managing a digital library system. It includes operations to retrieve, add, update, and delete books, as well as a skill check feature for testing API key authentication and dynamic variable handling.
+# 📚 Postman Library API Collection
+
+## 📝 Overview  
+This Postman collection allows users to interact with a library system through API requests. It supports CRUD operations on books, including fetching all books, retrieving a book by ID, adding new books, updating book details, and deleting books. Additionally, it includes an authentication-based skill check feature.  
+
